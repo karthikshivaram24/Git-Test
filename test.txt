@@ -1,1 +1,1 @@
-This is a file to showcase git
+This is a file to showcase git's revert command
