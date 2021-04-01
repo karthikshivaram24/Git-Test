@@ -1,1 +1,1 @@
-This is a file edited by Person A
+This is a file edited by Person B
